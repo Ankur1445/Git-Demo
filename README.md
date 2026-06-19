@@ -9,4 +9,8 @@ This repository is for learning Git and GitHub.
 - git commit
 - git push
 
-Created by Ankur.
+## Today's Practice
+
+- Configured Git username
+- Configured Git email
+- Made my first commit
